@@ -1,0 +1,12 @@
+streamlit 
+streamlit_chat
+langchain==0.0.137 
+chromadb==0.3.29 
+transformers 
+InstructorEmbedding 
+sentence_transformers
+accelerate 
+bitsandbytes 
+Xformers
+PyPDF2 
+pypdf
